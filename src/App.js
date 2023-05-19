@@ -3,7 +3,7 @@
  * Configures the routes and renders the Navbar and corresponding components based on the route
  */
 
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Cart from "./components/Cart";
@@ -14,8 +14,9 @@ const App = () => (
     <Navbar />
     <div className="container">
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route path="/cart" element={<Cart />} />
+        <Route path="*" element={<Navigate to="/" />} />
       </Routes>
     </div>
   </BrowserRouter>

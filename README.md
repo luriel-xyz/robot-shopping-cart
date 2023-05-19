@@ -1,19 +1,22 @@
 # Robot Shopping Cart
 
-Welcome to the Robot Shopping Cart repository! This application allows you to view robot products, add them to your cart, remove them from the cart, and checkout your cart.
+> Welcome to the Robot Shopping Cart repository! This application allows you to view robot products, add them to your cart, remove them from the cart, and checkout your cart.
+
+Demo: [Click here](https://luriel-xyz.github.io/robot-shopping-cart)
 
 ## Features
 
 - View robot products: Explore a wide range of robot products available.
-- Add robot to cart: Select and add robot products to your shopping cart.
-- Remove robot from cart: Remove robot products from your shopping cart.
-- Checkout cart: Proceed to the checkout process to complete your purchase.
+- Add robot to cart: Select and add robot products to the shopping cart.
+- Remove robot from cart: Remove robot products from the shopping cart.
+- Checkout: Remove all robot products from the shopping cart.
 
 ## Technologies Used
 
 - React.js: A JavaScript library for building user interfaces.
 - Redux Toolkit: A package that simplifies Redux state management.
 - Robohash: An API for generating unique robot avatars.
+- Bootstrap: A front-end framework for building responsive and mobile-first websites.
 
 ## How to Clone the Repository
 
