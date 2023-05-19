@@ -1,0 +1,12 @@
+body {
+  background: #303030;
+  color: #fff;
+}
+
+.container {
+  width: 89%;
+}
+
+.cursor-default {
+  cursor: unset;
+}

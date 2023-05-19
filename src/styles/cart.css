@@ -1,0 +1,53 @@
+/* Styling for the cart product */
+.cart-product {
+  background: #424242;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-product img {
+  width: 16rem;
+  height: 16rem;
+  object-fit: contain;
+}
+
+.cart-product .item-price {
+  color: #fff;
+}
+
+.cart-product footer .back-button {
+  background: #3f51b5;
+  color: #fff;
+}
+
+.cart-product footer .back-button:hover {
+  background: #303f9f;
+}
+
+/* Styling for the empty cart */
+.empty-cart {
+  background: #424242;
+  color: #fff;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.empty-cart i {
+  color: #f44336;
+  width: 2rem !important;
+  height: 2rem !important;
+}
+
+.empty-cart p {
+  color: #757575;
+}
+
+.empty-cart p:nth-child(3) {
+  color: #333;
+}
+
+.empty-cart .btn {
+  color: #fff;
+}

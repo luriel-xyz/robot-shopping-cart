@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Titanium Robot",
+      "detail": "Powerful Titanium Robot with Advanced Functions",
+      "price": 149.99,
+      "imageUrl": "https://robohash.org/1"
+    },
+    {
+      "id": 2,
+      "name": "Gold Robot",
+      "detail": "Premium Platinum Robot with State-of-the-Art Technology",
+      "price": 249.99,
+      "imageUrl": "https://robohash.org/2"
+    },
+    {
+      "id": 3,
+      "name": "Platinum Robot",
+      "detail": "Elegant Gold Robot with Exclusive Features",
+      "price": 199.99,
+      "imageUrl": "https://robohash.org/3"
+    },
+    {
+      "id": 4,
+      "name": "Silver Robot",
+      "detail": "Sleek Silver Robot with Versatile Functions",
+      "price": 129.99,
+      "imageUrl": "https://robohash.org/4"
+    },
+    {
+      "id": 5,
+      "name": "Copper Robot",
+      "detail": "Sturdy Copper Robot with Reliable Performance",
+      "price": 89.99,
+      "imageUrl": "https://robohash.org/5"
+    },
+    {
+      "id": 6,
+      "name": "Bronze Robot",
+      "detail": "Efficient Bronze Robot for Everyday Tasks",
+      "price": 79.99,
+      "imageUrl": "https://robohash.org/6"
+    },
+    {
+      "id": 7,
+      "name": "Aluminum Robot",
+      "detail": "Lightweight Aluminum Robot for Agile Movements",
+      "price": 59.99,
+      "imageUrl": "https://robohash.org/7"
+    },
+    {
+      "id": 8,
+      "name": "Steel Robot",
+      "detail": "Durable Steel Robot Built for Tough Environments",
+      "price": 169.99,
+      "imageUrl": "https://robohash.org/8"
+    },
+    {
+      "id": 9,
+      "name": "Carbon Fiber Robot",
+      "detail": "Sleek Carbon Fiber Robot with High-Speed Capabilities",
+      "price": 299.99,
+      "imageUrl": "https://robohash.org/9"
+    },
+    {
+      "id": 10,
+      "name": "Plastic Robot",
+      "detail": "Affordable Plastic Robot for Basic Functions",
+      "price": 49.99,
+      "imageUrl": "https://robohash.org/10"
+    },
+    {
+      "id": 11,
+      "name": "Wooden Robot",
+      "detail": "Eco-Friendly Wooden Robot with a Charming Design",
+      "price": 39.99,
+      "imageUrl": "https://robohash.org/11"
+    },
+    {
+      "id": 12,
+      "name": "Acrylic Robot",
+      "detail": "Transparent Acrylic Robot for Unique Visual Appeal",
+      "price": 69.99,
+      "imageUrl": "https://robohash.org/12"
+    }
+  ]
+}

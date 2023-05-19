@@ -1,0 +1,28 @@
+.product-catalogue .wrapper {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.product-catalogue .card {
+  background: #424242;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.product-catalogue .card:hover {
+  transform: translateY(-5px);
+}
+
+.product-catalogue .card-title {
+  color: #fff;
+}
+
+.product-catalogue .qty-buttons .btn.qty-left,
+.product-catalogue .qty-buttons .btn.qty-right {
+  background-color: #3f51b5;
+  color: #fff;
+}
+
+.product-catalogue .qty-buttons .btn.qty-left:hover,
+.product-catalogue .qty-buttons .btn.qty-right:hover {
+  background-color: #303f9f;
+}
