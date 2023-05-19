@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/robot-shopping-cart/static/css/main.d6094a42.css",
-    "main.js": "/robot-shopping-cart/static/js/main.16a36f5c.js",
+    "main.js": "/robot-shopping-cart/static/js/main.1e5871ba.js",
     "index.html": "/robot-shopping-cart/index.html",
     "main.d6094a42.css.map": "/robot-shopping-cart/static/css/main.d6094a42.css.map",
-    "main.16a36f5c.js.map": "/robot-shopping-cart/static/js/main.16a36f5c.js.map"
+    "main.1e5871ba.js.map": "/robot-shopping-cart/static/js/main.1e5871ba.js.map"
   },
   "entrypoints": [
     "static/css/main.d6094a42.css",
-    "static/js/main.16a36f5c.js"
+    "static/js/main.1e5871ba.js"
   ]
 }
